@@ -125,21 +125,4 @@ Evaluate models using:
 
 By leveraging these insights, businesses can improve demand forecasting, reduce stockouts, and enhance customer satisfaction.
 
----
-### Requirements
-To run the notebooks, install the required dependencies using:
-```bash
-pip install pandas numpy scikit-learn xgboost statsmodels matplotlib seaborn
-```
 
-### How to Use
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-2. Run Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-3. Open the notebooks and execute the cells sequentially.
