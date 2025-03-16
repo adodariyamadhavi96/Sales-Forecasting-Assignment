@@ -114,9 +114,9 @@ Evaluate models using:
 #### Model Performance
 | Model | RMSE ↓ | MAPE ↓ | R² ↑ |
 | ------------ | ---------- | --------- | --------- |
-| ARIMA | 1411.32 | High | -0.06 |
-| Random Forest | 431.90 | Moderate | 0.90 |
-| XGBoost | **307.43** | **Best** | **0.95** |
+| ARIMA | High | High | -1.57 |
+| Random Forest | --- | --- | ---|
+| XGBoost | **Best** | **Best** | **57.91** |
 
 #### Business Strategies
 - **Inventory Planning**: Optimize stock levels for peak demand periods.
